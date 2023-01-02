@@ -1,4 +1,13 @@
 # HTML-Notes: Notes from Class
+
+<hr>
+
+<h1>HTML Tags</h1>
+
+<b>Headers:</b>
+There are Headers that can come in various sizes. To use the code, use: <pre><h1></h1></pre>
+
+
 <hr>
 
 <b>Lists:</b> Do you want to make a list of items? Or bullet points?
