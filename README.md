@@ -2,6 +2,8 @@
 
 <hr>
 
+```<b>backtick</b>```
+
 <h1>HTML Tags</h1>
 
 <b>Headers:</b>
