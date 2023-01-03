@@ -11,12 +11,23 @@ There are Headers that can come in various sizes. To use the code, use:
 There are Headers 1-6. 
 
 So:
-&lt;h1>header 1&lt;h1>
-&lt;h2>header 2&lt;h2>
-&lt;h3>header 3&lt;h3>
-&lt;h4>header 4&lt;h4>
-&lt;h5>header 5&lt;h5>
-&lt;h6>header 6&lt;h6>
+<ul>
+  <li>&lt;h1>header 1&lt;h1></li>
+  <li>&lt;h2>header 2&lt;h2></li>
+  <li>&lt;h3>header 3&lt;h3></li>
+  <li>&lt;h4>header 4&lt;h4></li>
+  <li>&lt;h5>header 5&lt;h5></li>
+  <li>&lt;h6>header 6&lt;h6></li>
+
+In action:
+<h1>Header 1<h1>
+  <h2>Header 2</h2>
+  <h3>Header 3</h3>
+  <h4>Header 4</h4>
+  <h5>Header 5</h5>
+  <h6>Header 6</h6>
+  
+  Header 1 is the biggest, and as we go down the line, it gets smaller.
 
 <hr>
 
