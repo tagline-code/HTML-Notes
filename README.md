@@ -85,7 +85,10 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
     <th>Skills:</th>
     <tr>
       <td>Writing:✨✨✨✨✨</td>
+      <td>Editing:✨✨✨✨✨</td>
       <td>Acting:✨✨✨✨</td>
+    </tr>
+    <tr>
       <td>Pixels:✨✨✨✨</td>
       <td>Art: ✨✨✨</td>
       <td>Animation: ✨✨✨</td>
