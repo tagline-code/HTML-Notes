@@ -81,16 +81,15 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
   </table>
   
   <hr>
+  
+  <h3>Skills:</h3>
   <table>
-    <th>Skills:</th>
     <tr>
-      <td>Writing:✨✨✨✨✨</td>
-      <td>Editing:✨✨✨✨✨</td>
-      <td>Acting:✨✨✨✨</td>
+      <td>Writing:</td>
+      <td>✨✨✨✨✨</td>
     </tr>
     <tr>
-      <td>Pixels:✨✨✨✨</td>
-      <td>Art: ✨✨✨</td>
-      <td>Animation: ✨✨✨</td>
+      <td>Acting:</td>
+      <td>✨✨✨✨✨</td>
     </tr>
   </table>
