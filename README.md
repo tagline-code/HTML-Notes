@@ -49,12 +49,8 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
   <p>With <b>Ordered Lists</b>, there are quite a few ways to "order" the lists.</p>
     
 <p>Here are a few lists:</p>
-  &lt;ol type="1"><li>hmm</li>&lt;ol>
-  
-  Would look like: <ol type="1>
-    <li>Number 1!</li>
-    </ol>
-  
+  &lt;ol type="1"><li>boo</li>&lt;ol>
+  <li>&lt;h6>boo&lt;h6></li>
 <p>
   "Unordered lists" pertains to lists without "orders", like bullet points. 
     <ul>
