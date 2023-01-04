@@ -49,8 +49,7 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
   <p>With <b>Ordered Lists</b>, there are quite a few ways to "order" the lists.</p>
     
 <p>Here are a few lists:</p>
-  &lt;ol type="1"><li>boo</li>&lt;ol>
-  <li>&lt;h6>boo&lt;h6></li>
+
 <p>
   "Unordered lists" pertains to lists without "orders", like bullet points. 
     <ul>
@@ -64,13 +63,13 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
   <b>Tables:</b>
   <table>
     <thead>
-      <th>Dates:</th>
-      <th>Ate:</th>
+       <th>Dates:</th>
+       <th>Ate:</th>
     </thead>
-      <tbody>
-    </tbody>
+       <tbody>
+       </tbody>
         <tfoot>
-    </tfoot>
+        </tfoot>
     <tr>
       <td>table row: 2010</td>
       <td>ate cheese</td>
@@ -79,5 +78,16 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
       <td>2012</td>
       <td>ate pizza</td>
     </tr>
-    
-      
+  </table>
+  
+  <hr>
+  <table>
+    <th>Skills:</th>
+    <tr>
+      <td>Writing:✨✨✨✨✨</td>
+      <td>Acting:✨✨✨✨</td>
+      <td>Pixels:✨✨✨✨</td>
+      <td>Art: ✨✨✨</td>
+      <td>Animation: ✨✨✨</td>
+    </tr>
+  </table>
