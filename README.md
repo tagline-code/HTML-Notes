@@ -60,4 +60,24 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
   </ul>
 </p>      
       
+  <hr>
+  <b>Tables:</b>
+  <table>
+    <thead>
+      <th>Dates:</th>
+      <th>Ate:</th>
+    </thead>
+      <tbody>
+    </tbody>
+        <tfoot>
+    </tfoot>
+    <tr>
+      <td>table row: 2010</td>
+      <td>ate cheese</td>
+    </tr>
+    <tr>
+      <td>2012</td>
+      <td>ate pizza</td>
+    </tr>
+    
       
