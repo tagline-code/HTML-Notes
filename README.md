@@ -2,8 +2,6 @@
 
 <hr>
 
-```<b>backtick</b>```
-
 <h1>HTML Tags</h1>
 
 <b>Headers:</b>
@@ -45,6 +43,8 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
       <li>I am Numerical.</li>
       <li>This is a second.</li>
       <li>This is a third.</li>
+      
+  </ol>
 </p>
 
 <p>
@@ -53,6 +53,7 @@ There are <b>"ordered lists",</b> <b>"unordered lists",</b> and <b>"nested lists
       <li>This is Unordered.</li>
       <li>I like cats.</li>
       <li>I like dogs.</li>
+  </ul>
 </p>      
       
       
